@@ -8,7 +8,7 @@
 
 <p>Explore meu portfólio e mergulhe em um mundo de design inovador, projetos cativantes e soluções visualmente impactantes. Esse projeto foi pensado e detalhado em cada linha de código, visando sempre a qualidade de navegação.</p>
 
-<a href="https://apptaskbuddy.netlify.app/"><strong>Demonstração ao vivo</strong></a>
+<a href="https://danielportela.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
 
