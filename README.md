@@ -11,9 +11,9 @@ Portfólio - Front-end Developer
 <a href="https://danielportela.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/my-portfolio/assets/110783805/520638a2-18ee-4e39-8259-4d161eb46271)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/my-portfolio/assets/110783805/a6dd5b5e-02ec-41ec-a390-7b3a728d612c)
 
 
 Tecnologias utilizadas
