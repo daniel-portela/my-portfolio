@@ -1,75 +1,75 @@
 <div align="center">
 
-<b>Portfólio - Front-end Developer</b>
+Portfólio - Front-end Developer
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp;
 
-<p>Explore meu portfólio e mergulhe em um mundo de design inovador, projetos cativantes e soluções visualmente impactantes. Esse projeto foi pensado e detalhado em cada linha de código, visando sempre a qualidade de navegação.</p>
+<p>Você pode visualizar meu portfólio online aqui e explorar todos os recursos e funcionalidades implementados. Por favor, note que este projeto não é destinado a ser clonado. No entanto, sinta-se à vontade para examinar o código-fonte para aprender e se inspirar em suas próprias criações.</p>
 
 <a href="https://danielportela.netlify.app/"><strong>Demonstração ao vivo</strong></a>
-</div><br>
+</div>
 
 ![alt text](preview.jpg)
 
+![alt text](preview-responsive.jpg)
 
-<b>HTML Semântico:</b>
 
-Utilização de elementos HTML semânticos para estruturar o conteúdo de forma clara e compreensível.<br><br>
+Tecnologias utilizadas
 
-<b>CSS Bem Estruturado:</b>
+HTML5: 
 
-Organização do CSS usando boas práticas, como a metodologia BEM (Block Element Modifier) para facilitar a manutenção.<br><br>
+Utilizei HTML para estruturar o conteúdo do meu portfólio, garantindo uma base sólida para a apresentação dos meus projetos e informações.
 
-<b>JavaScript Interativo:</b>
+CSS3: 
 
-Implementação de interatividade usando JavaScript para aprimorar a experiência do usuário sem sacrificar o desempenho.<br><br>
+O estilo e a aparência do meu portfólio foram definidos com CSS, permitindo uma personalização detalhada para criar um layout intuitivo e atraente.
 
-<b>Responsividade Total:</b>
+JavaScript: 
 
-Adaptação perfeita do layout para diversos tamanhos de tela, garantindo uma experiência consistente em dispositivos desktop, tablets e smartphones.<br><br>
+Implementei funcionalidades dinâmicas e interativas com JavaScript, como a navegação suave e o botão "voltar ao topo", para melhorar a experiência do usuário.
 
-<b>Design Atraente e Consistente:</b>
+Layout intuitivo e responsivo:
 
-Escolha cuidadosa de paleta de cores e tipografia para criar um design visualmente agradável e profissional.
-Consistência visual em todo o site para uma experiência coesa.<br><br>
+Meu portfólio apresenta um layout intuitivo e responsivo, garantindo uma experiência consistente em uma variedade de dispositivos, desde smartphones até desktops. O design foi cuidadosamente planejado para facilitar a navegação e a visualização do conteúdo, proporcionando uma experiência agradável para o usuário.
 
-<b>Usabilidade e Navegabilidade:</b>
+<b>Recursos destacados</b>
 
-Menu de navegação intuitivo e fácil de usar em todas as plataformas.
-Garantia de que os elementos interativos sejam acessíveis e compreensíveis para todos os usuários.<br><br>
+Navegação suave: 
 
-<b>Performance Otimizada:</b>
+Implementei uma navegação suave e intuitiva, com um menu de navegação que se expande e se retrai de forma elegante em dispositivos móveis.
+
+Botão "Voltar ao topo": 
+
+Adicionei um botão "voltar ao topo" que aparece de forma discreta quando o usuário rola para baixo, permitindo que eles retornem facilmente ao início da página.
+
+Estilo atraente: 
+
+Escolhi uma paleta de cores atraente e cuidadosamente selecionada, juntamente com fontes e elementos visuais que refletem minha identidade profissional e criativa.
+
+Performance otimizada:
 
 Carregamento eficiente de recursos para garantir tempos de carregamento rápidos.
-Otimização de imagens e código para reduzir a largura de banda necessária.<br><br>
+Otimização de imagens e código para reduzir a largura de banda necessária.
 
-<b>Acessibilidade:</b>
+Validação de código:
 
-Implementação de práticas de acessibilidade para garantir que o site seja utilizado por todos, independentemente de limitações físicas ou tecnológicas.<br><br>
+Garantia de que o HTML, CSS e JavaScript sigam padrões e estejam livres de erros, utilizando validadores adequados.
 
-<b>Validação de Código:</b>
+Compatibilidade Cross-Browser:
 
-Garantia de que o HTML, CSS e JavaScript sigam padrões e estejam livres de erros, utilizando validadores adequados.<br><br>
+Testes em diferentes navegadores para assegurar uma experiência consistente para usuários de Chrome, Firefox, Safari, Edge, entre outros.
 
-<b>Compatibilidade Cross-Browser:</b>
-
-Testes em diferentes navegadores para assegurar uma experiência consistente para usuários de Chrome, Firefox, Safari, Edge, entre outros.<br><br>
-
-<b>Adaptação Dinâmica:</b>
-
-Utilização de recursos dinâmicos, como animações suaves e transições, para melhorar a experiência do usuário sem prejudicar a usabilidade.<br><br>
-
-<b>Feedback Visual:</b>
-
-Implementação de feedback visual para ações do usuário, como hover, foco e clique, para melhorar a interatividade.<br><br>
-
-<b>Manutenibilidade do Código:</b>
+Manutenibilidade do código:
 
 Compromisso com a melhoria contínua do projeto, incluindo atualizações regulares de conteúdo e refinamento do design conforme necessário.
 
-<br><b>Contato:</b>
+<b>Licença</b>
+
+Este projeto está sob [LISENCE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
+
+<b>Contato:</b>
 
 <p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
 
