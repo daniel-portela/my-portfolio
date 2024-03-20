@@ -11,7 +11,7 @@ Portfólio - Front-end Developer
 <a href="https://danielportela.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/my-portfolio/assets/110783805/b8270584-389d-4e0e-a619-455afe66e9fd)
 
 ![preview-responsive](https://github.com/daniel-portela/my-portfolio/assets/110783805/a6dd5b5e-02ec-41ec-a390-7b3a728d612c)
 
