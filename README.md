@@ -11,7 +11,7 @@ Portfólio - Front-end Developer
 <a href="https://danielportela.netlify.app/"><strong>Demonstração ao vivo</strong></a>
 </div>
 
-![preview](https://github.com/daniel-portela/my-portfolio/assets/110783805/520638a2-18ee-4e39-8259-4d161eb46271)
+![alt text](preview.jpg)
 
 ![preview-responsive](https://github.com/daniel-portela/my-portfolio/assets/110783805/a6dd5b5e-02ec-41ec-a390-7b3a728d612c)
 
@@ -71,15 +71,17 @@ Este projeto está sob [LISENCE](LICENSE), o que significa que você não tem pe
 
 <b>Contato:</b>
 
-<p>Se você quiser entrar em contato comigo, sinta-se a vontade.</p> 
+Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-<a href="https://linkedin.com/in/danielengineer" target="_blank">
+Email: <a href="mailto:danielportela.ti@gmail.com">danielportela.ti@gmail.com</a> 
+
+<a href="https://linkedin.com/in/danielportelati" target="_blank">
   <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
  <a href="https://instagram.com/danielengineer_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
- <a href="https://wa.me/77999109489" target="_blank">
+ <a href="https://wa.me/77999408643" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
 <a href="https://www.behance.net/danielengineer_" target="_blank">
